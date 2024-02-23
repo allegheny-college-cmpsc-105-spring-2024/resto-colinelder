@@ -37,11 +37,11 @@ Summary of TODOs. Details are below
 
 ## How to clone your repo
 
-- TODO: in GitHub, copy the SSH link to your repo from the green `code` button
-- TODO: Open a terminal
-- TODO: `cd` to a location where you would like to store lab 5
-- TODO: type `git clone` then paste in the link
-- TODO: in spyder, open a new project from existing directory.
+- in GitHub, copy the SSH link to your repo from the green `code` button
+- Open a terminal
+- `cd` to a location where you would like to store lab 5
+- type `git clone` then paste in the link
+- in spyder, open a new project from existing directory.
   - navigate to this lab and then hit create. You should then see all your files
     in the left hand panel. There are no code cells to run, but you can edit
     Markdown.
