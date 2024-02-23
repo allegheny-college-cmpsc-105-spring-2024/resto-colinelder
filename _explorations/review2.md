@@ -1,17 +1,11 @@
 ---
 layout: post
-# TODO: update the title inside the quotes to suit your restaurant review needs
-title: "rev 2"
+#  update the title inside the quotes to suit your restaurant review needs
+title: "Take it or leave it bakery review"
 permalink: explorations/review2
 nav: true
 ---
+[Take it or leave it website](https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-Elizabeth-Teufel)
 
-Lettuce can be grown with hydroponics.
 
-- TODO: pretending that you ate at the restaurant, write a
-  paragraph review as a food critic and restaurant owner.
-  - gatorgrade will check for at least 150 words.
-  - NB that something you write will be quoted later by the author
-  of the website.
-- TODO: make a link in markdown to the site that you reviewed
-- TODO: push your changes and make sure that the link works online!
+Take it or leave it bakery provides delicious fresh baked goods and partners it with a very well put together site. The home page of their website provides very insightful reviews from customers, and also includes a description of their head baker. Overall, the website is easy to navigate and provides sufficient information about the bakery itself. The menu provides multiple options for sweet treats, as well as descriptive names and pictures. Besides the names, I would maybe like to see a little more description about the treats themselves. Other than that, it looks to be very well formatted and easy to follow. Additonally, the prices are reasonable and the hours of operation for the bakery are on the site and easy to find. After trying the treats I would report that I will definitely be visiting again! They are fresh and fantastic.

@@ -9,13 +9,20 @@ nav: true
 
 this is the menu
 
-- TODO: add at least 1 menu item. Be as descriptive as possible to get a good review!
-- TODO: make sure the menu item has at least one image
-
 ### menu item 1
 
-#### lettuce
+#### Margharita pizza
 
-- price: $100
+- price: $15
+- Our world famous margharita pizza is authentic and delicious!
 
-![lettuce](assets/images/magnifying-glass-logo.jpeg){:width="200"}
+![logo](./assets/images/colin-pizza.webp){:width="200"}
+
+### menu item 2
+
+#### Pasta Carbonara
+
+- price: $26
+- Our pasta carbonara is made with eggs cheese and delectable cured pork
+
+![logo](./assets/images/pasta_carbonara.jpeg){:width="200"}

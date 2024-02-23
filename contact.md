@@ -5,6 +5,7 @@ permalink: /contact
 nav: true
 ---
 
-- TODO: fill in fake contact information for the business
-- TODO: create heading for `Hours`
-- Optional: perhaps fake address, hours, phone, reservation instructions...
+# Hours
+
+- Monday - Friday 4:00 - 10:00 PM
+- Saturday - Sunday 3:00 - 9:00 PM
