@@ -16,3 +16,9 @@ title: "about"
  
 "The pasta is absolutely delicious!"
 
+#### Other restaurant reviews
+
+"Take it or leave it bakery provides the freshest and sweetest baked goods I've had in a long time. Their canine baker is also very helpful and great at his job"
+
+"The waffle-tastic food truck is a great spot to get a sweet treat on the go! Their service is fast and their food is delicous! I love waffles"
+
