@@ -18,9 +18,9 @@ After completing this lab, you should be able to:
 - navigate the directory structure in the project
 - contribute to web docs online
 
-## TODOs
+## 
 
-Summary of TODOs. Details are below
+Summary of . Details are below
 
 0. in GitHub, go to settings>pages (you can add /settings/pages to the url)
    Under branch, click  `main` and then `save`. Refresh after 30 seconds to get live link!
@@ -32,8 +32,8 @@ Summary of TODOs. Details are below
 5. Submit work to GitHub using git
 6. Review your colleagues' restaurants/sports sites and write two short reviews
 7. Submit work to GitHub using git
-8. TODO: Check your analytics and make an additional post about the meaning of the data you see
-9. TODO: Submit work to GitHub using git
+8. Check your analytics and make an additional post about the meaning of the data you see
+9. Submit work to GitHub using git
 
 ## How to clone your repo
 
