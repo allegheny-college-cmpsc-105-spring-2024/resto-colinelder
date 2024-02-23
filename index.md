@@ -10,9 +10,6 @@ title: "about"
 ![logo](./assets/images/colin-pizza.webp){:width="200"}
 
 
-
-
-
 ### Reviews
 
 "The margharita pizza is fantastic!"
